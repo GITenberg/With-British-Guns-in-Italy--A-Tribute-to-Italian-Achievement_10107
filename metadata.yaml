@@ -1,0 +1,27 @@
+_repo: With-British-Guns-in-Italy--A-Tribute-to-Italian-Achievement_10107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dalton, Hugh Dalton, Baron
+    alias: Dalton, Edward Hugh John Neal Dalton, Baron
+    birthdate: 1887
+    deathdate: 1962
+    gutenberg_agent_id: '3309'
+    url: http://www.gutenberg.org/2009/agents/3309
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Dalton
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Italy'
+- !lcc 'D501'
+- GITenberg
+title: 'With British Guns in Italy: A Tribute to Italian Achievement'
+url: http://www.gutenberg.org/ebooks/10107
